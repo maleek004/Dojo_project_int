@@ -26,7 +26,7 @@
       "value": "silver_LH"
     },
     {
-      "name": "GOLD_LAKEHOUSE_NAME",
+      "name": "GOLD_LH_NAME",
       "note": "",
       "type": "String",
       "value": "gold_LH"
