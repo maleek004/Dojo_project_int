@@ -13,7 +13,7 @@
 
 VL = notebookutils.variableLibrary.getLibrary("lakehouse_variables_VL")
 
-workspace_name = VL.FEATURE_WORKSPACE_NAME
+workspace_name = VL.WORKSPACE_NAME
 lakehouse_name = VL.GOLD_LH_NAME
 
 # METADATA ********************
