@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/valueSet/1.0.0/schema.json",
+  "name": "prod",
+  "variableOverrides": [
+    {
+      "name": "BRONZE_LH_WORKSPACE_NAME",
+      "value": "int-prod-datastores"
+    },
+    {
+      "name": "BRONZE_LH_NAME",
+      "value": "bronze_LH"
+    }
+  ]
+}

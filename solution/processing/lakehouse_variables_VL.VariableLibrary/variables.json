@@ -1,0 +1,17 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/variables/1.0.0/schema.json",
+  "variables": [
+    {
+      "name": "BRONZE_LH_WORKSPACE_NAME",
+      "note": "",
+      "type": "String",
+      "value": "int-feature-youtube-api-datastores"
+    },
+    {
+      "name": "BRONZE_LH_NAME",
+      "note": "",
+      "type": "String",
+      "value": "feature_bronze_LH"
+    }
+  ]
+}
