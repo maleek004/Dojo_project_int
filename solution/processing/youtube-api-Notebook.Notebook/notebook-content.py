@@ -53,7 +53,7 @@ api_key = notebookutils.credentials.getSecret('https://kv-dojo-project.vault.azu
 VL_name = 'lakehouse_variables_VL'
 VL = notebookutils.variableLibrary.getLibrary(VL_name)
 destination_lh_name = VL.BRONZE_LH_NAME
-destination_lh_workspace_name = VL.BRONZE_LH_WORKSPACE_NAME
+destination_lh_workspace_name = VL.WORKSPACE_NAME
 
 # METADATA ********************
 
