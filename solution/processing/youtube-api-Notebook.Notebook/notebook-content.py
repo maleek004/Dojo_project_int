@@ -272,17 +272,6 @@ write_json_to_location(channel_stat_response , channel_stat_relative_path , 'you
 # META   "language_group": "jupyter_python"
 # META }
 
-# CELL ********************
-
-channel_stat_response
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "jupyter_python"
-# META }
-
 # MARKDOWN ********************
 
 # ### get channel's 'uploads' playlist info and write it to Files/youtube_data_v3/playlistItems/ in the lakehouse
