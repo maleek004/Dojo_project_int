@@ -3,16 +3,12 @@
   "name": "test",
   "variableOverrides": [
     {
-      "name": "WORKSPACE_NAME",
+      "name": "DATASTORE_WORKSPACE_NAME",
       "value": "int-test-datastores"
     },
     {
       "name": "BRONZE_LH_NAME",
       "value": "bronze_LH"
-    },
-    {
-      "name": "FEATURE_WORKSPACE_NAME",
-      "value": ""
     }
   ]
 }
