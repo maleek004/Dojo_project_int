@@ -3,7 +3,7 @@
   "name": "dev",
   "variableOverrides": [
     {
-      "name": "WORKSPACE_NAME",
+      "name": "DATASTORE_WORKSPACE_NAME",
       "value": "int-dev-datastores"
     },
     {
@@ -11,8 +11,16 @@
       "value": "bronze_LH"
     },
     {
-      "name": "FEATURE_WORKSPACE_NAME",
-      "value": ""
+      "name": "BRONZE_LH_ID",
+      "value": "c7bb2dfc-c315-4564-9971-c9e8d14d4784"
+    },
+    {
+      "name": "SILVER_LH_ID",
+      "value": "17f7a129-6708-44b9-bf4d-4b1c982361a0"
+    },
+    {
+      "name": "GOLD_LH_ID",
+      "value": "7941e808-584c-44e9-8bac-1bbd6c881a92"
     }
   ]
 }
